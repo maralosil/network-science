@@ -12,7 +12,7 @@
 %\usepackage{psfrag}
 %\usepackage{tabularx}
 %\usepackage{longtable}
-%\usepackage{xcolor}
+\usepackage{xcolor}
 
 \usepackage{caption}
 \usepackage{hyperref}
@@ -20,10 +20,10 @@
 \setbeamertemplate{itemize items}[square]
 \setbeamertemplate{caption}[numbered]
 
-\title{Some Title \\
-    Some Subtitle If Needed}
+\title{Brazilian E-Commerce Public Dataset by Olist: \\
+    Insights from a Network Science Perspective}
 \author{Marcelo Silva \and Rodrigo Bifulco}
-%\institute{University of Campinas}
+\institute{University of Campinas}
 \date{\today}
 
 \begin{document}
@@ -32,27 +32,54 @@
 \titlepage
 \end{frame}
 
-\begin{frame}{The Network}
+\begin{frame}{Olist Store}
+\begin{itemize}
+    \item Brazilian startup that operates in the e-commerce segment, mainly
+            through the marketplace \cite{olist-wiki}
+    \item Concentrates sellers who want to advertise on marketplaces such as:
+    \begin{itemize}
+        \item Mercado Livre
+        \item B2W
+        \item Via Varejo
+        \item Amazon
+    \end{itemize}
+    \item Concentrates the products of all sellers in a single store that is
+            visible to the end consumer
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Dataset}
+\begin{itemize}
+    \item Brazilian ecommerce public dataset of orders made at Olist Store
+        \cite{olist-sionek}
+    \item Information of 100k orders from 2016 to 2018 made at multiple
+            marketplaces
+    \item Allows viewing an order from multiple dimensions from: 
+    \begin{itemize}
+        \item order status
+        \item price
+        \item payment
+        \item freight performance to customer location
+        \item product attributes 
+        \item reviews written by customers
+    \end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Networks}
 \begin{itemize}
     \item Introduce your network discussing its nodes and links
-    \item ?
+    \item \alert{TODO}
 \end{itemize}
 \end{frame}
 
-\begin{frame}{The Dataset}
+\begin{frame}{Questions}
 \begin{itemize}
-    \item Tell us how you wil collect the data and estimate the size of the
-network
-    \item ?
-    \item ?
-\end{itemize}
-\end{frame}
-
-\begin{frame}{Possible Questions}
-\begin{itemize}
-    \item Tell us what questions you are planning to ask
-    \item ?
-    \item ?
+    \item Which state and product category generated the highest average profit
+            for the marketplace between 2016 and 2018?
+    \item Which state and product category generated the lowest average profit
+            for this marketplace between 2016 and 2018?
+    \item Is the profit proportional to the population of the state?
 \end{itemize}
 \end{frame}
 
@@ -61,8 +88,12 @@ network
 
 \begin{thebibliography}{2}
 
-\bibitem{asconv12} Christoph Dobraunig, Maria Eichlseder, Florian Mendel,
-Martin Schläffer, {\em Ascon v1.2 Submission to NIST}, September 27, 2019.
+\bibitem{olist-wiki} Olist. [Online]. \url{https://pt.wikipedia.org/wiki/Olist}.
+(Accessed Oct 4, 2022).
+
+\bibitem{olist-sionek} Olist and André Sionek. (2018). {\em Brazilian
+E-Commerce Public Dataset by Olist} [Data set]. Kaggle.
+\url{https://doi.org/10.34740/KAGGLE/DSV/195341}
 
 \end{thebibliography}
 \end{frame}
