@@ -10,7 +10,7 @@
 \usepackage{amssymb}
 \usepackage{graphicx}
 %\usepackage{psfrag}
-%\usepackage{tabularx}
+\usepackage{tabularx}
 %\usepackage{longtable}
 \usepackage{xcolor}
 
@@ -23,8 +23,9 @@
 \title{Brazilian E-Commerce Public Dataset by Olist: \\
     Insights from a Network Science Perspective}
 \author{Marcelo Silva \and Rodrigo Bifulco}
-\institute{University of Campinas}
-\date{\today}
+%\institute{State University of Campinas}
+%\date{\today}
+\date{October 10, 2022}
 
 \begin{document}
 
@@ -54,7 +55,7 @@
         \cite{olist-sionek}
     \item Information of 100k orders from 2016 to 2018 made at multiple
             marketplaces
-    \item Allows viewing an order from multiple dimensions from: 
+    \item Allows viewing an order from multiple dimensions such as: 
     \begin{itemize}
         \item order status
         \item price
@@ -66,10 +67,19 @@
 \end{itemize}
 \end{frame}
 
-\begin{frame}{Networks}
+\begin{frame}{Network}
 \begin{itemize}
-    \item Introduce your network discussing its nodes and links
-    \item \alert{TODO}
+    \item The network dataset has been created from the merge of some of the
+            datasets made available by Olist and also by population data from
+            IBGE.
+    \item Nodes are order ids, states and product category
+    \item Links are connections between:
+        \begin{itemize}
+            \item order ids and states
+            \item states and product category
+        \end{itemize}
+    \item Size is around 316872 nodes and 205138 links
+    \item The network is tripartite
 \end{itemize}
 \end{frame}
 
