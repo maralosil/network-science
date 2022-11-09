@@ -1,0 +1,338 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-11-08">
+    <creator>NetworkX 2.7.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="brinquedos" label="brinquedos" />
+      <node id="consoles_games" label="consoles_games" />
+      <node id="bebes" label="bebes" />
+      <node id="esporte_lazer" label="esporte_lazer" />
+      <node id="perfumaria" label="perfumaria" />
+      <node id="utilidades_domesticas" label="utilidades_domesticas" />
+      <node id="cama_mesa_banho" label="cama_mesa_banho" />
+      <node id="papelaria" label="papelaria" />
+      <node id="ferramentas_jardim" label="ferramentas_jardim" />
+      <node id="market_place" label="market_place" />
+      <node id="beleza_saude" label="beleza_saude" />
+      <node id="informatica_acessorios" label="informatica_acessorios" />
+      <node id="cool_stuff" label="cool_stuff" />
+      <node id="moveis_cozinha_area_de_servico_jantar_e_jardim" label="moveis_cozinha_area_de_servico_jantar_e_jardim" />
+      <node id="telefonia" label="telefonia" />
+      <node id="instrumentos_musicais" label="instrumentos_musicais" />
+      <node id="moveis_decoracao" label="moveis_decoracao" />
+      <node id="construcao_ferramentas_iluminacao" label="construcao_ferramentas_iluminacao" />
+      <node id="alimentos_bebidas" label="alimentos_bebidas" />
+      <node id="malas_acessorios" label="malas_acessorios" />
+      <node id="construcao_ferramentas_jardim" label="construcao_ferramentas_jardim" />
+      <node id="relogios_presentes" label="relogios_presentes" />
+      <node id="audio" label="audio" />
+      <node id="casa_construcao" label="casa_construcao" />
+      <node id="casa_conforto" label="casa_conforto" />
+      <node id="nan" label="nan" />
+      <node id="fashion_bolsas_e_acessorios" label="fashion_bolsas_e_acessorios" />
+      <node id="eletronicos" label="eletronicos" />
+      <node id="eletrodomesticos_2" label="eletrodomesticos_2" />
+      <node id="construcao_ferramentas_construcao" label="construcao_ferramentas_construcao" />
+      <node id="sinalizacao_e_seguranca" label="sinalizacao_e_seguranca" />
+      <node id="eletroportateis" label="eletroportateis" />
+      <node id="bebidas" label="bebidas" />
+      <node id="automotivo" label="automotivo" />
+      <node id="livros_tecnicos" label="livros_tecnicos" />
+      <node id="pet_shop" label="pet_shop" />
+      <node id="pcs" label="pcs" />
+      <node id="alimentos" label="alimentos" />
+      <node id="telefonia_fixa" label="telefonia_fixa" />
+      <node id="artes_e_artesanato" label="artes_e_artesanato" />
+      <node id="moveis_quarto" label="moveis_quarto" />
+      <node id="moveis_sala" label="moveis_sala" />
+      <node id="livros_interesse_geral" label="livros_interesse_geral" />
+      <node id="la_cuisine" label="la_cuisine" />
+      <node id="moveis_escritorio" label="moveis_escritorio" />
+      <node id="dvds_blu_ray" label="dvds_blu_ray" />
+      <node id="climatizacao" label="climatizacao" />
+      <node id="casa_conforto_2" label="casa_conforto_2" />
+      <node id="tablets_impressao_imagem" label="tablets_impressao_imagem" />
+      <node id="fashion_esporte" label="fashion_esporte" />
+      <node id="construcao_ferramentas_seguranca" label="construcao_ferramentas_seguranca" />
+      <node id="artigos_de_natal" label="artigos_de_natal" />
+      <node id="industria_comercio_e_negocios" label="industria_comercio_e_negocios" />
+      <node id="artigos_de_festas" label="artigos_de_festas" />
+      <node id="fashion_roupa_masculina" label="fashion_roupa_masculina" />
+      <node id="fashion_roupa_feminina" label="fashion_roupa_feminina" />
+      <node id="flores" label="flores" />
+      <node id="artes" label="artes" />
+      <node id="cine_foto" label="cine_foto" />
+      <node id="fashion_calcados" label="fashion_calcados" />
+      <node id="musica" label="musica" />
+      <node id="fashion_roupa_infanto_juvenil" label="fashion_roupa_infanto_juvenil" />
+      <node id="pc_gamer" label="pc_gamer" />
+      <node id="livros_importados" label="livros_importados" />
+    </nodes>
+    <edges>
+      <edge source="brinquedos" target="consoles_games" id="0" weight="2" />
+      <edge source="brinquedos" target="bebes" id="1" weight="19" />
+      <edge source="brinquedos" target="perfumaria" id="2" weight="2" />
+      <edge source="brinquedos" target="construcao_ferramentas_construcao" id="3" weight="1" />
+      <edge source="brinquedos" target="artes_e_artesanato" id="4" weight="1" />
+      <edge source="brinquedos" target="cool_stuff" id="5" weight="7" />
+      <edge source="brinquedos" target="papelaria" id="6" weight="6" />
+      <edge source="brinquedos" target="relogios_presentes" id="7" weight="1" />
+      <edge source="brinquedos" target="nan" id="8" weight="1" />
+      <edge source="brinquedos" target="cama_mesa_banho" id="9" weight="2" />
+      <edge source="brinquedos" target="instrumentos_musicais" id="10" weight="1" />
+      <edge source="brinquedos" target="beleza_saude" id="11" weight="1" />
+      <edge source="brinquedos" target="esporte_lazer" id="12" weight="4" />
+      <edge source="brinquedos" target="moveis_sala" id="13" weight="1" />
+      <edge source="brinquedos" target="telefonia" id="14" weight="1" />
+      <edge source="brinquedos" target="moveis_cozinha_area_de_servico_jantar_e_jardim" id="15" weight="1" />
+      <edge source="consoles_games" target="pet_shop" id="16" weight="1" />
+      <edge source="consoles_games" target="informatica_acessorios" id="17" weight="1" />
+      <edge source="consoles_games" target="esporte_lazer" id="18" weight="1" />
+      <edge source="consoles_games" target="utilidades_domesticas" id="19" weight="1" />
+      <edge source="consoles_games" target="cool_stuff" id="20" weight="1" />
+      <edge source="consoles_games" target="automotivo" id="21" weight="1" />
+      <edge source="bebes" target="cool_stuff" id="22" weight="20" />
+      <edge source="bebes" target="beleza_saude" id="23" weight="1" />
+      <edge source="bebes" target="sinalizacao_e_seguranca" id="24" weight="1" />
+      <edge source="bebes" target="cama_mesa_banho" id="25" weight="17" />
+      <edge source="bebes" target="ferramentas_jardim" id="26" weight="4" />
+      <edge source="bebes" target="moveis_decoracao" id="27" weight="12" />
+      <edge source="bebes" target="utilidades_domesticas" id="28" weight="5" />
+      <edge source="bebes" target="la_cuisine" id="29" weight="1" />
+      <edge source="bebes" target="fashion_bolsas_e_acessorios" id="30" weight="3" />
+      <edge source="bebes" target="automotivo" id="31" weight="2" />
+      <edge source="bebes" target="construcao_ferramentas_iluminacao" id="32" weight="1" />
+      <edge source="bebes" target="moveis_sala" id="33" weight="1" />
+      <edge source="bebes" target="esporte_lazer" id="34" weight="1" />
+      <edge source="bebes" target="relogios_presentes" id="35" weight="1" />
+      <edge source="bebes" target="livros_interesse_geral" id="36" weight="1" />
+      <edge source="bebes" target="moveis_quarto" id="37" weight="1" />
+      <edge source="bebes" target="fashion_calcados" id="38" weight="2" />
+      <edge source="bebes" target="malas_acessorios" id="39" weight="1" />
+      <edge source="bebes" target="nan" id="40" weight="1" />
+      <edge source="bebes" target="construcao_ferramentas_seguranca" id="41" weight="1" />
+      <edge source="esporte_lazer" target="perfumaria" id="42" weight="3" />
+      <edge source="esporte_lazer" target="cool_stuff" id="43" weight="1" />
+      <edge source="esporte_lazer" target="utilidades_domesticas" id="44" weight="11" />
+      <edge source="esporte_lazer" target="construcao_ferramentas_iluminacao" id="45" weight="3" />
+      <edge source="esporte_lazer" target="bebidas" id="46" weight="2" />
+      <edge source="esporte_lazer" target="relogios_presentes" id="47" weight="5" />
+      <edge source="esporte_lazer" target="moveis_decoracao" id="48" weight="3" />
+      <edge source="esporte_lazer" target="pet_shop" id="49" weight="1" />
+      <edge source="esporte_lazer" target="automotivo" id="50" weight="3" />
+      <edge source="esporte_lazer" target="beleza_saude" id="51" weight="14" />
+      <edge source="esporte_lazer" target="informatica_acessorios" id="52" weight="3" />
+      <edge source="esporte_lazer" target="alimentos" id="53" weight="1" />
+      <edge source="esporte_lazer" target="papelaria" id="54" weight="1" />
+      <edge source="esporte_lazer" target="nan" id="55" weight="6" />
+      <edge source="esporte_lazer" target="cama_mesa_banho" id="56" weight="1" />
+      <edge source="esporte_lazer" target="ferramentas_jardim" id="57" weight="3" />
+      <edge source="esporte_lazer" target="moveis_escritorio" id="58" weight="2" />
+      <edge source="esporte_lazer" target="climatizacao" id="59" weight="1" />
+      <edge source="esporte_lazer" target="alimentos_bebidas" id="60" weight="2" />
+      <edge source="esporte_lazer" target="eletroportateis" id="61" weight="1" />
+      <edge source="esporte_lazer" target="cine_foto" id="62" weight="1" />
+      <edge source="esporte_lazer" target="eletronicos" id="63" weight="1" />
+      <edge source="perfumaria" target="beleza_saude" id="64" weight="12" />
+      <edge source="perfumaria" target="market_place" id="65" weight="1" />
+      <edge source="perfumaria" target="cama_mesa_banho" id="66" weight="1" />
+      <edge source="perfumaria" target="nan" id="67" weight="2" />
+      <edge source="perfumaria" target="moveis_decoracao" id="68" weight="2" />
+      <edge source="perfumaria" target="relogios_presentes" id="69" weight="1" />
+      <edge source="perfumaria" target="pet_shop" id="70" weight="1" />
+      <edge source="perfumaria" target="eletronicos" id="71" weight="2" />
+      <edge source="perfumaria" target="musica" id="72" weight="1" />
+      <edge source="perfumaria" target="utilidades_domesticas" id="73" weight="1" />
+      <edge source="utilidades_domesticas" target="cama_mesa_banho" id="74" weight="20" />
+      <edge source="utilidades_domesticas" target="moveis_cozinha_area_de_servico_jantar_e_jardim" id="75" weight="2" />
+      <edge source="utilidades_domesticas" target="beleza_saude" id="76" weight="1" />
+      <edge source="utilidades_domesticas" target="alimentos_bebidas" id="77" weight="2" />
+      <edge source="utilidades_domesticas" target="ferramentas_jardim" id="78" weight="11" />
+      <edge source="utilidades_domesticas" target="moveis_decoracao" id="79" weight="24" />
+      <edge source="utilidades_domesticas" target="market_place" id="80" weight="2" />
+      <edge source="utilidades_domesticas" target="nan" id="81" weight="14" />
+      <edge source="utilidades_domesticas" target="automotivo" id="82" weight="2" />
+      <edge source="utilidades_domesticas" target="eletroportateis" id="83" weight="1" />
+      <edge source="utilidades_domesticas" target="relogios_presentes" id="84" weight="2" />
+      <edge source="utilidades_domesticas" target="informatica_acessorios" id="85" weight="4" />
+      <edge source="utilidades_domesticas" target="bebidas" id="86" weight="2" />
+      <edge source="utilidades_domesticas" target="dvds_blu_ray" id="87" weight="1" />
+      <edge source="utilidades_domesticas" target="papelaria" id="88" weight="4" />
+      <edge source="utilidades_domesticas" target="livros_interesse_geral" id="89" weight="1" />
+      <edge source="utilidades_domesticas" target="casa_construcao" id="90" weight="2" />
+      <edge source="utilidades_domesticas" target="industria_comercio_e_negocios" id="91" weight="1" />
+      <edge source="utilidades_domesticas" target="casa_conforto" id="92" weight="1" />
+      <edge source="utilidades_domesticas" target="cool_stuff" id="93" weight="1" />
+      <edge source="utilidades_domesticas" target="eletronicos" id="94" weight="1" />
+      <edge source="utilidades_domesticas" target="construcao_ferramentas_construcao" id="95" weight="1" />
+      <edge source="cama_mesa_banho" target="construcao_ferramentas_jardim" id="96" weight="2" />
+      <edge source="cama_mesa_banho" target="moveis_decoracao" id="97" weight="70" />
+      <edge source="cama_mesa_banho" target="eletrodomesticos_2" id="98" weight="1" />
+      <edge source="cama_mesa_banho" target="beleza_saude" id="99" weight="11" />
+      <edge source="cama_mesa_banho" target="moveis_quarto" id="100" weight="1" />
+      <edge source="cama_mesa_banho" target="informatica_acessorios" id="101" weight="1" />
+      <edge source="cama_mesa_banho" target="casa_conforto" id="102" weight="43" />
+      <edge source="cama_mesa_banho" target="market_place" id="103" weight="2" />
+      <edge source="cama_mesa_banho" target="automotivo" id="104" weight="2" />
+      <edge source="cama_mesa_banho" target="construcao_ferramentas_construcao" id="105" weight="1" />
+      <edge source="cama_mesa_banho" target="cool_stuff" id="106" weight="10" />
+      <edge source="cama_mesa_banho" target="nan" id="107" weight="8" />
+      <edge source="cama_mesa_banho" target="fashion_bolsas_e_acessorios" id="108" weight="1" />
+      <edge source="cama_mesa_banho" target="construcao_ferramentas_seguranca" id="109" weight="1" />
+      <edge source="cama_mesa_banho" target="ferramentas_jardim" id="110" weight="4" />
+      <edge source="cama_mesa_banho" target="construcao_ferramentas_iluminacao" id="111" weight="1" />
+      <edge source="cama_mesa_banho" target="moveis_sala" id="112" weight="2" />
+      <edge source="cama_mesa_banho" target="artigos_de_festas" id="113" weight="1" />
+      <edge source="cama_mesa_banho" target="pet_shop" id="114" weight="1" />
+      <edge source="cama_mesa_banho" target="eletronicos" id="115" weight="2" />
+      <edge source="cama_mesa_banho" target="moveis_escritorio" id="116" weight="5" />
+      <edge source="cama_mesa_banho" target="moveis_cozinha_area_de_servico_jantar_e_jardim" id="117" weight="1" />
+      <edge source="cama_mesa_banho" target="alimentos" id="118" weight="1" />
+      <edge source="papelaria" target="ferramentas_jardim" id="119" weight="2" />
+      <edge source="papelaria" target="informatica_acessorios" id="120" weight="2" />
+      <edge source="papelaria" target="malas_acessorios" id="121" weight="5" />
+      <edge source="papelaria" target="nan" id="122" weight="2" />
+      <edge source="papelaria" target="fashion_bolsas_e_acessorios" id="123" weight="2" />
+      <edge source="papelaria" target="beleza_saude" id="124" weight="4" />
+      <edge source="papelaria" target="relogios_presentes" id="125" weight="2" />
+      <edge source="papelaria" target="moveis_decoracao" id="126" weight="2" />
+      <edge source="papelaria" target="artes" id="127" weight="1" />
+      <edge source="ferramentas_jardim" target="informatica_acessorios" id="128" weight="9" />
+      <edge source="ferramentas_jardim" target="construcao_ferramentas_construcao" id="129" weight="5" />
+      <edge source="ferramentas_jardim" target="moveis_decoracao" id="130" weight="17" />
+      <edge source="ferramentas_jardim" target="pet_shop" id="131" weight="1" />
+      <edge source="ferramentas_jardim" target="telefonia" id="132" weight="1" />
+      <edge source="ferramentas_jardim" target="moveis_sala" id="133" weight="1" />
+      <edge source="ferramentas_jardim" target="relogios_presentes" id="134" weight="2" />
+      <edge source="ferramentas_jardim" target="construcao_ferramentas_jardim" id="135" weight="1" />
+      <edge source="ferramentas_jardim" target="casa_construcao" id="136" weight="7" />
+      <edge source="ferramentas_jardim" target="automotivo" id="137" weight="2" />
+      <edge source="ferramentas_jardim" target="malas_acessorios" id="138" weight="1" />
+      <edge source="ferramentas_jardim" target="construcao_ferramentas_iluminacao" id="139" weight="1" />
+      <edge source="ferramentas_jardim" target="eletronicos" id="140" weight="1" />
+      <edge source="ferramentas_jardim" target="la_cuisine" id="141" weight="1" />
+      <edge source="ferramentas_jardim" target="artes_e_artesanato" id="142" weight="1" />
+      <edge source="market_place" target="beleza_saude" id="143" weight="2" />
+      <edge source="market_place" target="livros_interesse_geral" id="144" weight="2" />
+      <edge source="market_place" target="instrumentos_musicais" id="145" weight="1" />
+      <edge source="market_place" target="moveis_decoracao" id="146" weight="3" />
+      <edge source="beleza_saude" target="moveis_decoracao" id="147" weight="3" />
+      <edge source="beleza_saude" target="eletroportateis" id="148" weight="1" />
+      <edge source="beleza_saude" target="telefonia" id="149" weight="2" />
+      <edge source="beleza_saude" target="nan" id="150" weight="2" />
+      <edge source="beleza_saude" target="malas_acessorios" id="151" weight="2" />
+      <edge source="beleza_saude" target="cool_stuff" id="152" weight="2" />
+      <edge source="beleza_saude" target="bebidas" id="153" weight="3" />
+      <edge source="beleza_saude" target="relogios_presentes" id="154" weight="3" />
+      <edge source="beleza_saude" target="automotivo" id="155" weight="1" />
+      <edge source="beleza_saude" target="alimentos" id="156" weight="3" />
+      <edge source="beleza_saude" target="informatica_acessorios" id="157" weight="1" />
+      <edge source="beleza_saude" target="pet_shop" id="158" weight="1" />
+      <edge source="beleza_saude" target="construcao_ferramentas_construcao" id="159" weight="1" />
+      <edge source="beleza_saude" target="livros_tecnicos" id="160" weight="1" />
+      <edge source="beleza_saude" target="fashion_bolsas_e_acessorios" id="161" weight="1" />
+      <edge source="informatica_acessorios" target="telefonia" id="162" weight="6" />
+      <edge source="informatica_acessorios" target="eletronicos" id="163" weight="5" />
+      <edge source="informatica_acessorios" target="relogios_presentes" id="164" weight="1" />
+      <edge source="informatica_acessorios" target="cool_stuff" id="165" weight="5" />
+      <edge source="informatica_acessorios" target="climatizacao" id="166" weight="1" />
+      <edge source="informatica_acessorios" target="automotivo" id="167" weight="5" />
+      <edge source="informatica_acessorios" target="tablets_impressao_imagem" id="168" weight="1" />
+      <edge source="informatica_acessorios" target="malas_acessorios" id="169" weight="2" />
+      <edge source="informatica_acessorios" target="moveis_decoracao" id="170" weight="1" />
+      <edge source="informatica_acessorios" target="construcao_ferramentas_seguranca" id="171" weight="1" />
+      <edge source="informatica_acessorios" target="nan" id="172" weight="1" />
+      <edge source="informatica_acessorios" target="casa_construcao" id="173" weight="1" />
+      <edge source="informatica_acessorios" target="moveis_escritorio" id="174" weight="1" />
+      <edge source="informatica_acessorios" target="construcao_ferramentas_construcao" id="175" weight="1" />
+      <edge source="informatica_acessorios" target="dvds_blu_ray" id="176" weight="1" />
+      <edge source="cool_stuff" target="telefonia" id="177" weight="6" />
+      <edge source="cool_stuff" target="moveis_decoracao" id="178" weight="4" />
+      <edge source="cool_stuff" target="relogios_presentes" id="179" weight="2" />
+      <edge source="cool_stuff" target="tablets_impressao_imagem" id="180" weight="2" />
+      <edge source="cool_stuff" target="cine_foto" id="181" weight="1" />
+      <edge source="cool_stuff" target="automotivo" id="182" weight="3" />
+      <edge source="cool_stuff" target="casa_construcao" id="183" weight="1" />
+      <edge source="cool_stuff" target="construcao_ferramentas_seguranca" id="184" weight="2" />
+      <edge source="cool_stuff" target="livros_interesse_geral" id="185" weight="1" />
+      <edge source="cool_stuff" target="pc_gamer" id="186" weight="1" />
+      <edge source="cool_stuff" target="nan" id="187" weight="1" />
+      <edge source="moveis_cozinha_area_de_servico_jantar_e_jardim" target="construcao_ferramentas_construcao" id="188" weight="1" />
+      <edge source="moveis_cozinha_area_de_servico_jantar_e_jardim" target="moveis_decoracao" id="189" weight="1" />
+      <edge source="telefonia" target="eletronicos" id="190" weight="2" />
+      <edge source="telefonia" target="eletroportateis" id="191" weight="1" />
+      <edge source="telefonia" target="cine_foto" id="192" weight="1" />
+      <edge source="telefonia" target="automotivo" id="193" weight="3" />
+      <edge source="telefonia" target="malas_acessorios" id="194" weight="1" />
+      <edge source="telefonia" target="relogios_presentes" id="195" weight="2" />
+      <edge source="telefonia" target="telefonia_fixa" id="196" weight="1" />
+      <edge source="telefonia" target="construcao_ferramentas_jardim" id="197" weight="1" />
+      <edge source="instrumentos_musicais" target="moveis_decoracao" id="198" weight="1" />
+      <edge source="instrumentos_musicais" target="relogios_presentes" id="199" weight="1" />
+      <edge source="instrumentos_musicais" target="nan" id="200" weight="1" />
+      <edge source="instrumentos_musicais" target="automotivo" id="201" weight="1" />
+      <edge source="instrumentos_musicais" target="fashion_bolsas_e_acessorios" id="202" weight="1" />
+      <edge source="instrumentos_musicais" target="casa_conforto_2" id="203" weight="1" />
+      <edge source="instrumentos_musicais" target="malas_acessorios" id="204" weight="1" />
+      <edge source="moveis_decoracao" target="construcao_ferramentas_iluminacao" id="205" weight="11" />
+      <edge source="moveis_decoracao" target="casa_construcao" id="206" weight="13" />
+      <edge source="moveis_decoracao" target="casa_conforto" id="207" weight="6" />
+      <edge source="moveis_decoracao" target="relogios_presentes" id="208" weight="7" />
+      <edge source="moveis_decoracao" target="livros_tecnicos" id="209" weight="1" />
+      <edge source="moveis_decoracao" target="nan" id="210" weight="3" />
+      <edge source="moveis_decoracao" target="pcs" id="211" weight="1" />
+      <edge source="moveis_decoracao" target="eletronicos" id="212" weight="2" />
+      <edge source="moveis_decoracao" target="pet_shop" id="213" weight="2" />
+      <edge source="moveis_decoracao" target="moveis_sala" id="214" weight="7" />
+      <edge source="moveis_decoracao" target="automotivo" id="215" weight="2" />
+      <edge source="moveis_decoracao" target="moveis_escritorio" id="216" weight="4" />
+      <edge source="moveis_decoracao" target="artes" id="217" weight="5" />
+      <edge source="moveis_decoracao" target="eletroportateis" id="218" weight="1" />
+      <edge source="moveis_decoracao" target="flores" id="219" weight="1" />
+      <edge source="moveis_decoracao" target="industria_comercio_e_negocios" id="220" weight="2" />
+      <edge source="moveis_decoracao" target="moveis_quarto" id="221" weight="1" />
+      <edge source="moveis_decoracao" target="construcao_ferramentas_construcao" id="222" weight="1" />
+      <edge source="construcao_ferramentas_iluminacao" target="casa_construcao" id="223" weight="1" />
+      <edge source="construcao_ferramentas_iluminacao" target="construcao_ferramentas_jardim" id="224" weight="1" />
+      <edge source="malas_acessorios" target="automotivo" id="225" weight="1" />
+      <edge source="malas_acessorios" target="eletronicos" id="226" weight="1" />
+      <edge source="construcao_ferramentas_jardim" target="nan" id="227" weight="4" />
+      <edge source="construcao_ferramentas_jardim" target="pet_shop" id="228" weight="1" />
+      <edge source="construcao_ferramentas_jardim" target="flores" id="229" weight="1" />
+      <edge source="construcao_ferramentas_jardim" target="casa_construcao" id="230" weight="1" />
+      <edge source="construcao_ferramentas_jardim" target="livros_tecnicos" id="231" weight="1" />
+      <edge source="relogios_presentes" target="audio" id="232" weight="6" />
+      <edge source="relogios_presentes" target="eletronicos" id="233" weight="2" />
+      <edge source="relogios_presentes" target="casa_conforto" id="234" weight="1" />
+      <edge source="relogios_presentes" target="automotivo" id="235" weight="1" />
+      <edge source="relogios_presentes" target="construcao_ferramentas_construcao" id="236" weight="1" />
+      <edge source="casa_construcao" target="eletronicos" id="237" weight="1" />
+      <edge source="casa_construcao" target="construcao_ferramentas_seguranca" id="238" weight="2" />
+      <edge source="nan" target="fashion_bolsas_e_acessorios" id="239" weight="9" />
+      <edge source="nan" target="automotivo" id="240" weight="1" />
+      <edge source="nan" target="pet_shop" id="241" weight="6" />
+      <edge source="nan" target="fashion_roupa_masculina" id="242" weight="1" />
+      <edge source="nan" target="moveis_sala" id="243" weight="1" />
+      <edge source="nan" target="livros_importados" id="244" weight="1" />
+      <edge source="fashion_bolsas_e_acessorios" target="automotivo" id="245" weight="1" />
+      <edge source="fashion_bolsas_e_acessorios" target="fashion_esporte" id="246" weight="1" />
+      <edge source="fashion_bolsas_e_acessorios" target="fashion_roupa_infanto_juvenil" id="247" weight="2" />
+      <edge source="eletronicos" target="automotivo" id="248" weight="1" />
+      <edge source="eletronicos" target="alimentos" id="249" weight="1" />
+      <edge source="eletronicos" target="eletroportateis" id="250" weight="1" />
+      <edge source="construcao_ferramentas_construcao" target="automotivo" id="251" weight="3" />
+      <edge source="construcao_ferramentas_construcao" target="pet_shop" id="252" weight="1" />
+      <edge source="bebidas" target="automotivo" id="253" weight="1" />
+      <edge source="automotivo" target="artigos_de_natal" id="254" weight="1" />
+      <edge source="automotivo" target="casa_conforto_2" id="255" weight="1" />
+      <edge source="livros_tecnicos" target="musica" id="256" weight="1" />
+      <edge source="pet_shop" target="alimentos" id="257" weight="1" />
+      <edge source="alimentos" target="telefonia_fixa" id="258" weight="1" />
+      <edge source="moveis_sala" target="moveis_escritorio" id="259" weight="3" />
+      <edge source="moveis_escritorio" target="industria_comercio_e_negocios" id="260" weight="1" />
+      <edge source="fashion_esporte" target="fashion_roupa_feminina" id="261" weight="1" />
+    </edges>
+  </graph>
+</gexf>
